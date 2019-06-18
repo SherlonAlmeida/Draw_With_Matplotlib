@@ -1,17 +1,17 @@
-Como usar:
-    Clicar com o botao direito pinta de branco.
-    Clicar com o botao esquerdo pinta de preto.
-    Deve clicar em 2 pontos para tracar uma reta.
-    Digitar '+' para aumentar a espessura da linha.
-    Digitar '-' para diminuir a espessura da linha.
-    Digitar 'backspace' para desfazer a ultima acao.
+**Como usar:** <br>
+Clicar com o botao direito pinta de branco. <br>
+Clicar com o botao esquerdo pinta de preto. <br>
+Deve clicar em 2 pontos para tracar uma reta. <br>
+Digitar '+' para aumentar a espessura da linha. <br>
+Digitar '-' para diminuir a espessura da linha. <br>
+Digitar 'backspace' para desfazer a ultima acao. <br>
 
-Referencias:
-    Como conectar a imagem lida ao Matplotlib:
-        https://stackoverflow.com/questions/15721094/detecting-mouse-event-in-an-image-with-matplotlib
+**Referencias:** <br>
+Como conectar a imagem lida ao Matplotlib:<br>
+https://stackoverflow.com/questions/15721094/detecting-mouse-event-in-an-image-with-matplotlib <br><br>
 
-    Event Handling and Picking:
-        https://matplotlib.org/3.1.0/users/event_handling.html
+Event Handling and Picking: <br>
+https://matplotlib.org/3.1.0/users/event_handling.html<br><br>
 
-    Como obter teclado:
-        https://matplotlib.org/examples/event_handling/index.html
+Como obter teclado: <br>
+https://matplotlib.org/examples/event_handling/index.html

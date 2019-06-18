@@ -1,3 +1,6 @@
+**O que o programa faz:** <br>
+É possível desenhar linhas iterativamente na imagem, utilizando matplotlib. Uma das aplicações é utilizar o desenho em impressões digitais para remoção de ruído ou então realce de cristas.
+
 **Como Executar:** <br>
 python3 draw.py
 

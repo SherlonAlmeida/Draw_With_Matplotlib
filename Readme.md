@@ -1,3 +1,6 @@
+**Como Executar:** <br>
+python3 draw.py
+
 **Como usar:** <br>
 Clicar com o botao direito pinta de branco. <br>
 Clicar com o botao esquerdo pinta de preto. <br>
